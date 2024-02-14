@@ -30,10 +30,12 @@ footer{
 
 section{
     div{
-        display: flex;
-        justify-content:left;
-        width: 200px;
-        height: 100px;
+        img{
+            display: flex;
+            justify-content:left;
+            width: 200px;
+            height: 100px;
+        }
     }
 }
 
